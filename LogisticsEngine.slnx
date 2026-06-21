@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LogisticsEngine.Console/LogisticsEngine.Console.csproj" />
+    <Project Path="src/LogisticsEngine.lib/LogisticsEngine.lib.csproj" />
+  </Folder>
+</Solution>

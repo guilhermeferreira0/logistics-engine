@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "LogisticsEngine.lib": {
+      "commandName": "Project"
+    },
+    "LogisticsEngine.Console": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\01 - PROJECTS\\02 - DEVELOPMENT\\logistics-engine\\src\\LogisticsEngine.Console"
+    }
+  }
+}
